@@ -11,6 +11,10 @@
     "node",
     "npm"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgetejeda/eve-family-names.git"
+  },
   "author": "jorge tejeda <jorgetejeda@gmail.com>",
   "license": "MIT",
   "bin": {
