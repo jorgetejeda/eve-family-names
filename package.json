@@ -1,0 +1,20 @@
+{
+  "name": "eve-family-names",
+  "version": "1.1.0",
+  "description": "Mensajes random de mi familia",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "jorge tejeda <jorgetejeda@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "eve-random-name": "./bin/global.js"
+  },
+  "preferGloabl": true
+}
